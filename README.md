@@ -5,6 +5,4 @@
 
 **Телефон:** 8-950-478-78-**
 
-![А это моя кошка Ума][def]
-
-[def]: \IMG_20210205_162618.jpg
+![А это кошка](https://github.com/user-attachments/assets/4721d68d-e3e8-429d-ab5b-43906cf22a7b)
